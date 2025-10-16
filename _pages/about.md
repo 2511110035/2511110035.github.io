@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Homepage"
 author_profile: true
 redirect_from:
  -/about/
@@ -11,6 +11,6 @@ I am Xinyue Zhao, a first-year Ph.D. student in Department of Physiology and Pat
 
 You can find my CV here: [Xinyue's Curriculum Vitae](/assets/CV_Xinyue_Zhao.pdf).
 
-You can find my publised paper here: [Published Paper](/publications/).
+You can find my publised paper here: [Publications](https://2511110035.github.io/publications/).
 
-[Email](2511110035@stu.pku.edu.cn) / [Github](https://github.com/2511110035) / [Wechat](/images/wechat.jpg) 
+[Email](mailto:2511110035@stu.pku.edu.cn) / [Github](https://github.com/2511110035) / [Wechat](/images/wechat.jpg) 
