@@ -2,4 +2,6 @@ I am Xinyue Zhao, a first-year Ph.D. student in Department of Physiology and Pat
 
 You can find my CV here: [Xinyue's Curriculum Vitae](../assets/CV_Xinyue_Zhao.pdf).
 
+You can find my publised paper here: [Published Paper]().
+
 [Email](2511110035@stu.pku.edu.cn) / [Github](https://github.com/2511110035)  
