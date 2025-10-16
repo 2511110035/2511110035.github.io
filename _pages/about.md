@@ -4,4 +4,4 @@ You can find my CV here: [Xinyue's Curriculum Vitae](../assets/CV_Xinyue_Zhao.pd
 
 You can find my publised paper here: [Published Paper]().
 
-[Email](2511110035@stu.pku.edu.cn) / [Github](https://github.com/2511110035)  
+[Email](2511110035@stu.pku.edu.cn) / [Github](https://github.com/2511110035) / [Wechat](../images/wechat.jpg) 
