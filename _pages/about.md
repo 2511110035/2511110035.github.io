@@ -13,4 +13,6 @@ You can find my CV here: [Xinyue's Curriculum Vitae](/assets/CV_Xinyue_Zhao.pdf)
 
 You can find my publised paper here: [Publications](https://2511110035.github.io/publications/).
 
+The code for assignment: [项目展示网页开发](/assets/Chronic_kidney_disease.html).
+
 [Email](mailto:2511110035@stu.pku.edu.cn) / [Github](https://github.com/2511110035) / [Wechat](/images/wechat.jpg) 
